@@ -1,4 +1,4 @@
 # Lab8
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+Alejandro Malanche: A15456918, Alejandro Marquez: A15515209
+Link to GP: https://alejandrom2000.github.io/
